@@ -12,7 +12,7 @@ public class Location {
     public Location(int location, String description) {
         this.locationID = location;
         this.description = description;
-        this.exits = new HashMap<>();
+        this.exits = new HashMap<String, Integer>();
     }
     public void addExit(String direction, int location){
         exits.put(direction,location);
@@ -27,6 +27,6 @@ public class Location {
     }
 
     public Map<String, Integer> getExits() {
-        return exits;
+        return new HashMap<String, Integer>(exits);
     }
 }

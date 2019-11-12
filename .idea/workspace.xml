@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cca03752-27e1-4f95-a1ed-62a517f6e9dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="cca03752-27e1-4f95-a1ed-62a517f6e9dd" name="Default Changelist" comment="changed 13:03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/test/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/test/Location.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/test/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,6 +66,14 @@
       <option name="presentableId" value="Default" />
       <updated>1573558378641</updated>
     </task>
+    <task id="LOCAL-00001" summary="changed 13:03">
+      <created>1573560212351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573560212351</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,5 +86,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed 13:03" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed 13:03" />
   </component>
 </project>
